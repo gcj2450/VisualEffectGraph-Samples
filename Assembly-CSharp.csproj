@@ -72,8 +72,10 @@
     <Compile Include="Assets\Samples\GrassWind\GrassWindMenuCameraControl.cs" />
     <Compile Include="Assets\VisualFX-Samples-master\ThirdParty\Klak\Extension\MaterialExtension.cs" />
     <Compile Include="Assets\SineVFX\LivingParticles\Resources\Scripts\LivingParticleArrayController.cs" />
+    <Compile Include="Assets\VFX2\Wire\WireFrameLineTopo.cs" />
     <Compile Include="Assets\Samples\Common\Scripts\CursorControl.cs" />
     <Compile Include="Assets\Samples\Portal\Script\Lights.cs" />
+    <Compile Include="Assets\VFX2\Object trail\ObjectTrail.cs" />
     <Compile Include="Assets\Galaxy\GalaxyBloom.cs" />
     <Compile Include="Assets\VisualFX-Samples-master\ThirdParty\Klak\Wiring\Basic\FloatAnimation.cs" />
     <Compile Include="Assets\Samples\GrassWind\TendTo.cs" />
@@ -81,6 +83,7 @@
     <Compile Include="Assets\VisualFX-Samples-master\ThirdParty\Klak\Math\Tween.cs" />
     <Compile Include="Assets\VisualFX-Samples-master\ThirdParty\Klak\Wiring\Filter\RotationMix.cs" />
     <Compile Include="Assets\Samples\VoxelizedTerrain\VoxelizedTerrainController.cs" />
+    <Compile Include="Assets\VFX2\Wire\WireFrame.cs" />
     <Compile Include="Assets\VisualFX-Samples-master\ThirdParty\Klak\Wiring\Filter\VectorMix.cs" />
     <Compile Include="Assets\UnityHexGrid-master\CubeList.cs" />
     <Compile Include="Assets\VisualFX-Samples-master\ThirdParty\Klak\Wiring\Input\RandomValue.cs" />
@@ -203,6 +206,7 @@
     <None Include="Assets\SineVFX\PostProcessingV2\Shaders\Builtins\Lut3DBaker.compute" />
     <None Include="Assets\SineVFX\PostProcessingV2\Shaders\Debug\Waveform.compute" />
     <None Include="Assets\Samples\Common\Kenney\CharacterKit\License.txt" />
+    <None Include="Assets\VFX2\Wire\WireFrame.compute" />
     <None Include="Assets\SineVFX\PostProcessingV2\Shaders\API\PSSL.hlsl" />
     <None Include="Assets\SineVFX\LivingParticles\Resources\Shaders\LivingParticleFloorArray.shader" />
     <None Include="Assets\SineVFX\PostProcessingV2\Shaders\Debug\LightMeter.shader" />
