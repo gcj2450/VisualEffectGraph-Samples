@@ -516,7 +516,7 @@ MonoBehaviour:
     enumValues: []
     descendantCount: 0
   m_ImportDependencies: []
-  m_GraphVersion: 8
+  m_GraphVersion: 9
   m_ResourceVersion: 1
   m_SubgraphDependencies: []
   m_CategoryPath: 
@@ -694,7 +694,7 @@ MonoBehaviour:
   stripCapacity: 16
   particlePerStripCount: 16
   needsComputeBounds: 0
-  boundsSettingMode: 1
+  boundsMode: 1
   m_Space: 1
 --- !u!114 &8926484042661614583
 MonoBehaviour:
@@ -1102,7 +1102,7 @@ MonoBehaviour:
   stripCapacity: 16
   particlePerStripCount: 16
   needsComputeBounds: 0
-  boundsSettingMode: 1
+  boundsMode: 1
   m_Space: 1
 --- !u!114 &8926484042661614642
 MonoBehaviour:
@@ -3112,7 +3112,7 @@ MonoBehaviour:
   stripCapacity: 1
   particlePerStripCount: 128
   needsComputeBounds: 1
-  boundsSettingMode: 1
+  boundsMode: 1
   m_Space: 1
 --- !u!114 &8926484042661615946
 MonoBehaviour:
@@ -4479,7 +4479,7 @@ MonoBehaviour:
   stripCapacity: 16
   particlePerStripCount: 16
   needsComputeBounds: 0
-  boundsSettingMode: 0
+  boundsMode: 0
   m_Space: 1
 --- !u!114 &8926484042661616027
 MonoBehaviour:
@@ -9494,7 +9494,7 @@ MonoBehaviour:
   stripCapacity: 16
   particlePerStripCount: 16
   needsComputeBounds: 0
-  boundsSettingMode: 1
+  boundsMode: 1
   m_Space: 1
 --- !u!114 &8926484042661616931
 MonoBehaviour:
@@ -11668,19 +11668,19 @@ MonoBehaviour:
   m_UISuperCollapsed: 0
   m_InputSlots:
   - {fileID: 8926484042661617398}
-  - {fileID: 8926484042661617399}
-  - {fileID: 8926484042661617400}
-  - {fileID: 8926484042661617401}
   - {fileID: 8926484042661617402}
   - {fileID: 8926484042661617403}
+  - {fileID: 8926484042661617400}
+  - {fileID: 8926484042661617401}
+  - {fileID: 8926484042661617399}
   - {fileID: 8926484042661617421}
+  - {fileID: 8926484042661617406}
   - {fileID: 8926484042661617404}
   - {fileID: 8926484042661617405}
-  - {fileID: 8926484042661617406}
   - {fileID: 8926484042661617407}
+  - {fileID: 8926484042661617422}
   - {fileID: 8926484042661618867}
   - {fileID: 8926484042661618868}
-  - {fileID: 8926484042661617422}
   - {fileID: 8926484042661618869}
   - {fileID: 8926484042661617394}
   - {fileID: 8926484042661617395}
@@ -21410,7 +21410,7 @@ MonoBehaviour:
   stripCapacity: 1
   particlePerStripCount: 128
   needsComputeBounds: 0
-  boundsSettingMode: 0
+  boundsMode: 0
   m_Space: 0
 --- !u!114 &8926484042661619383
 MonoBehaviour:
